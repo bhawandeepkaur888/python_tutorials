@@ -1,17 +1,4 @@
-```markdown
-# Python Tutorial - From Zero to Advanced
-
-A friendly, hands-on Python tutorial series that takes you from absolute basics to advanced concepts. No prior experience? No problem. Each file is self-contained and ready to run.
-
-## Quick Start
-
-```bash
-python3 introduction.py
-python3 chapter-one-data-types.py
-# and explore the rest at your own pace
-```
-
-> Requirements: Python 3.10 or higher (for match-case in chapter four)
+Hi my name is Bhawan and this is my python portfolio
 
 ## What's Inside
 
